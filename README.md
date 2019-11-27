@@ -18,4 +18,4 @@ hiyzx 的个人博客
 
 ---
 
-本仓库通过 [Solo](https://github.com/b3log/solo) 自动进行同步更新 ❤️ 
+本仓库通过 [Solo](http://blog.hiyzx.cn) 自动进行同步更新 ❤️ 
